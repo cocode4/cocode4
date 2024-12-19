@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6848775a-f582-4c1a-9150-0de0c5f0f544)![image](https://github.com/user-attachments/assets/9a58199d-542d-4e1b-95a5-ab437e1240d4)# Khanh Tran or `CoCode` 🐓
+# Khanh Tran or `CoCode` 🐓
 
 FullStack and Web3 developer. A petal from a steel magnolia
 
